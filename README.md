@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [-](-)
 
-- 🌱 I’m currently learning **Framework, react, typescript, python etc**
+- 🌱 I’m currently learning **PHP, Framework, react, typescript, python etc**
 
 - 📝 I regularly write articles on **[devlara.tistory.com]**
 
